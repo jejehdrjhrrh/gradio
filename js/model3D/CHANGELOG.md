@@ -1,5 +1,11 @@
 # @gradio/model3d
 
+## 0.10.10
+
+### Dependency updates
+
+- @gradio/upload@0.11.2
+
 ## 0.10.9
 
 ### Dependency updates
