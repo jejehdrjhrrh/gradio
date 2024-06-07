@@ -362,6 +362,8 @@ export interface LogMessage extends Log {
 	type: "log";
 	endpoint: string;
 	fn_index: number;
+	display: boolean;
+	duration: number | null;
 }
 
 export interface RenderMessage extends Render {
